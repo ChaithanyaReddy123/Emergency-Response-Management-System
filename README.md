@@ -7,6 +7,6 @@ It tracks the exact location of the victimized person whereas the rescue service
 ### Working :
 • User must Signup and Login.\
 • User must fill the Emergency Details and type of emergency.\
-• The system tracks the users location and provide services according to user's emergency.\
+• The system tracks the users location and provide services according to user's emergency.
 
 * [Website Link](https://erms07.000webhostapp.com/)
